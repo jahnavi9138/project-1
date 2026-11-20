@@ -1,0 +1,12 @@
+# Real student and staff data must never be committed.
+/data/
+/target/
+*.mv.db
+*.trace.db
+*.log
+.env
+.env.*
+.idea/
+.vscode/
+*.class
+.DS_Store

@@ -119,11 +119,11 @@ git init
 git add .
 git commit -m "Task 4 final Campus Register submission"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/campus-register-student-management.git
+git remote add origin https://github.com/sreesharan-dev/campus-register-student-management.git
 git push -u origin main
 ```
 
-Replace `YOUR_USERNAME` with your own GitHub username and create the empty repository first.
+The GitHub repository is published under `sreesharan-dev`.
 You can alternatively upload files through GitHub's web interface. The GitHub repository
 must contain the files *inside* the `Campus-Register` folder, not only the ZIP.
 
@@ -158,8 +158,8 @@ only with authorized evaluators, and do not publish actual student information.
 
 ### Submission links to fill after publication
 
-- GitHub: `https://github.com/YOUR_USERNAME/campus-register-student-management`
-- Live demo: Copy the exact URL displayed by Render after deployment.
+- GitHub: `https://github.com/sreesharan-dev/campus-register-student-management`
+- Live demo: https://campus-register-student-management.onrender.com
 - Final submitted ZIP: `92500119114_SreeSharan_SourceCode.zip`
 - Final submitted report: `92500119114_SreeSharan_ProjectDocumentation.pdf`
 
